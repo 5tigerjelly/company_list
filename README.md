@@ -1,4 +1,4 @@
-#외국인을 고용하지 못하는 외국 회사 명단
+#외국인을 고용하지 못/안하는 외국 회사 명단
 
 ##개요
 모든 회사가 F-1 비자 혹은 기타 비자인 외국인을 고용하지 못하는 경우가 있습니다. 그러한 회사에 대해서 미리 파악해서 시간 낭비하는 시간을 줄이고자 이 명단을 제작하였습니다.
@@ -35,7 +35,7 @@
 |   Blue Origin     |   [https://www.blueorigin.com](https://www.blueorigin.com)    |     |    2016.10.26        |
 |  Boeing      |  [http://www.boeing.com/](http://www.boeing.com/)     |     |      2016.10.26       |
 |  Space X      |   [http://www.spacex.com/](http://www.spacex.com/)    |     |     2016.10.26        |
-|    NASA   |   [https://www.nasa.gov](https://www.nasa.gov)    |     |     2017.1.19       |
+|  NASA   |   [https://www.nasa.gov](https://www.nasa.gov)    |     |  2017.1.19       |
 
 ###정부
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
