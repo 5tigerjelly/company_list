@@ -26,6 +26,7 @@
 | Blizzard Entertainment   |    [http://blizzard.com](http://blizzard.com)   |     | 2017.01.19 |
 | CrowdStrike Inc. |    [https://www.crowdstrike.com](https://www.crowdstrike.com)   |     | 2017.01.19 |
 | Domo |    [https://www.domo.com](https://www.domo.com)   |     | 2017.01.19 |
+| eQ Technologic |    [https://www.1eq.com](https://www.1eq.com)   |     | 2017.01.19 |
 
 ###의료 생명공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
@@ -34,12 +35,14 @@
 | Amgen   |   [http://www.amgen.com](http://www.amgen.com)    |     |  2017.1.19       |
 | Biotronik, Inc. |   [https://www.biotronik.com](https://www.biotronik.com)    |     |  2017.1.19       |
 | Cedars-Sanai Health System |   [https://www.cedars-sinai.edu](https://www.cedars-sinai.edu)    |     |  2017.1.19       |
+| Edwards Lifescience |   [http://www.edwards.com](http://www.edwards.com)    |     |  2017.1.19       |
 
 ###기계공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
 | ACCO Engineered Systems | [http://www.accoes.com](http://www.accoes.com)    |     |  2017.1.19       |
 | Aero Vironment   |   [https://www.avinc.com](https://www.avinc.com)    |     |  2017.1.19       |
+| Eaton Corporation |   [http://www.eaton.com](http://www.eaton.com)    |     |  2017.1.19       |
 
 ###생활 
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
