@@ -21,6 +21,7 @@
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
 |     Workday   |    [https://www.workday.com/](https://www.workday.com/)   |     |      2016.10.26        |
+|     Premera   |    [https://www.premerajobs.com/](https://www.premerajobs.com/)   |     |      2017.01.18        |
 
 ###생명공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
