@@ -13,21 +13,21 @@
 ###통신 가전 
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
-|   AT&T    |       |     |       2016.10.26      |
-|   T-Mobile     |       |     |     2016.10.26         |
-|   INTEL     |       |     |       2016.10.26       |
-|    CISCO    |       |     | 2016.10.29      |
+|   AT&T    |   [https://www.att.com/](https://www.att.com/)    |     |       2016.10.26      |
+|   T-Mobile     |   [https://www.t-mobile.com/](https://www.t-mobile.com/)    |     |     2016.10.26         |
+|   Intel     |    [http://www.intel.com/](http://www.intel.com/)   |     |       2016.10.26       |
+|    CISCO    |    [http://www.cisco.com/](http://www.cisco.com/)   |     | 2016.10.29      |
 
 ###소프트웨어
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
-|     Workday   |       |     |      2016.10.26        |
+|     Workday   |    [https://www.workday.com/](https://www.workday.com/)   |     |      2016.10.26        |
 
 ###생활 
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
-|Liberty Mutual    |       |     | 2016.10.29        |
-|    Honeywell    |       |     |      2016.10.29       |
+|Liberty Mutual    |[https://www.libertymutual.com/](https://www.libertymutual.com/)    |     | 2016.10.29        |
+|    Honeywell    |    [https://www.honeywell.com](https://www.honeywell.com)   |     |      2016.10.29       |
 
 ###우주 항공
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
