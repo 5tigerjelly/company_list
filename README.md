@@ -23,12 +23,14 @@
 | Workday   |    [https://www.workday.com/](https://www.workday.com/)   |     |      2016.10.26        |
 | Premera   |    [https://www.premerajobs.com/](https://www.premerajobs.com/)   |     |      2017.01.18        |
 | AOL   |    [https://www.aol.com](https://www.aol.com)   |     |      2017.01.19        |
+| Blizzard Entertainment   |    [http://blizzard.com](http://blizzard.com)   |     |      2017.01.19        |
 
 ###생명공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
 | Abbott   |   [http://www.abbott.com](http://www.abbott.com)    |     |  2017.1.19       |
 | Amgen   |   [http://www.amgen.com](http://www.amgen.com)    |     |  2017.1.19       |
+| Biotronik, Inc. |   [https://www.biotronik.com](https://www.biotronik.com)    |     |  2017.1.19       |
 
 ###기계공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
@@ -65,6 +67,12 @@
 |--------|-------|-----|-------------|
 | ARCO/Murray National |   [http://www.arcomurray.com](http://www.arcomurray.com)    |     |  2017.1.19       |
 | ARUP |   [http://www.arup.com](http://www.arup.com)    |     |  2017.1.19       |
+| BNBuilders |   [http://www.bnbuilders.com](http://www.bnbuilders.com)    |     |  2017.1.19       |
+
+###회계 세무
+| 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
+|--------|-------|-----|-------------|
+| BDO |   [https://www.bdo.com](https://www.bdo.com)    |     |  2017.1.19       |
 
 ##유럽 명단
 여러분의 도움이 필요합니다!
