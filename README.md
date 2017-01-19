@@ -25,6 +25,7 @@
 | AOL   |    [https://www.aol.com](https://www.aol.com)   |     |      2017.01.19        |
 | Blizzard Entertainment   |    [http://blizzard.com](http://blizzard.com)   |     | 2017.01.19 |
 | CrowdStrike Inc. |    [https://www.crowdstrike.com](https://www.crowdstrike.com)   |     | 2017.01.19 |
+| Domo |    [https://www.domo.com](https://www.domo.com)   |     | 2017.01.19 |
 
 ###의료 생명공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
@@ -46,6 +47,7 @@
 |Liberty Mutual    |[https://www.libertymutual.com/](https://www.libertymutual.com/)    |     | 2016.10.29        |
 |    Honeywell    |    [https://www.honeywell.com](https://www.honeywell.com)   |     |      2016.10.29       |
 |    Aramark    |    [http://www.aramark.com](http://www.aramark.com)   |     |      2017.1.19       |
+|    Daily Themetrics    |    [http://www.dailyinst.com](http://www.dailyinst.com)   |     |      2017.1.19       |
 
 ###우주 항공
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
@@ -55,6 +57,7 @@
 |  Boeing      |  [http://www.boeing.com/](http://www.boeing.com/)     |     |      2016.10.26       |
 |  Space X      |   [http://www.spacex.com/](http://www.spacex.com/)    |     |     2016.10.26        |
 |  NASA   |   [https://www.nasa.gov](https://www.nasa.gov)    |     |  2017.1.19       |
+| Delta Air Lines   |   [http://www.delta.com](http://www.delta.com)    |     |  2017.1.19       |
 
 ###정부
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
