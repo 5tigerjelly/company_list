@@ -15,7 +15,6 @@
 |--------|-------|-----|-------------|
 |   AT&T    |   [https://www.att.com/](https://www.att.com/)    |     |       2016.10.26      |
 |   T-Mobile     |   [https://www.t-mobile.com/](https://www.t-mobile.com/)    |     |     2016.10.26         |
-|   Intel     |    [http://www.intel.com/](http://www.intel.com/)   |     |       2016.10.26       |
 |    CISCO    |    [http://www.cisco.com/](http://www.cisco.com/)   |     | 2016.10.29      |
 
 ###소프트웨어
@@ -36,6 +35,7 @@
 |   Blue Origin     |   [https://www.blueorigin.com](https://www.blueorigin.com)    |     |    2016.10.26        |
 |  Boeing      |  [http://www.boeing.com/](http://www.boeing.com/)     |     |      2016.10.26       |
 |  Space X      |   [http://www.spacex.com/](http://www.spacex.com/)    |     |     2016.10.26        |
+|    NASA   |   [https://www.nasa.gov](https://www.nasa.gov)    |     |     2017.1.19       |
 
 ###정부
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
