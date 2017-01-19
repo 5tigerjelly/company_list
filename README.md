@@ -23,14 +23,16 @@
 | Workday   |    [https://www.workday.com/](https://www.workday.com/)   |     |      2016.10.26        |
 | Premera   |    [https://www.premerajobs.com/](https://www.premerajobs.com/)   |     |      2017.01.18        |
 | AOL   |    [https://www.aol.com](https://www.aol.com)   |     |      2017.01.19        |
-| Blizzard Entertainment   |    [http://blizzard.com](http://blizzard.com)   |     |      2017.01.19        |
+| Blizzard Entertainment   |    [http://blizzard.com](http://blizzard.com)   |     | 2017.01.19 |
+| CrowdStrike Inc. |    [https://www.crowdstrike.com](https://www.crowdstrike.com)   |     | 2017.01.19 |
 
-###생명공학
+###의료 생명공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
 | Abbott   |   [http://www.abbott.com](http://www.abbott.com)    |     |  2017.1.19       |
 | Amgen   |   [http://www.amgen.com](http://www.amgen.com)    |     |  2017.1.19       |
 | Biotronik, Inc. |   [https://www.biotronik.com](https://www.biotronik.com)    |     |  2017.1.19       |
+| Cedars-Sanai Health System |   [https://www.cedars-sinai.edu](https://www.cedars-sinai.edu)    |     |  2017.1.19       |
 
 ###기계공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
@@ -54,13 +56,16 @@
 |  Space X      |   [http://www.spacex.com/](http://www.spacex.com/)    |     |     2016.10.26        |
 |  NASA   |   [https://www.nasa.gov](https://www.nasa.gov)    |     |  2017.1.19       |
 
-
 ###정부
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
 |   CIA     |   [https://www.cia.gov](https://www.cia.gov)    |     |       2016.10.26      |
 |    FBI    |    [https://www.fbi.gov](https://www.fbi.gov)   |     |       2016.10.26      |
 |    NSA    |  [https://www.nsa.gov](https://www.nsa.gov)     |     |       2016.10.29      |
+| California High-Speed Rail Authority   |  [http://www.hsr.ca.gov](http://www.hsr.ca.gov)     |     |       2017.1.19      |
+| City of LA - Bureau of Engineering |  [http://eng.lacity.org](http://eng.lacity.org)     |     |       2017.1.19      |
+| City of LA - Dept. of Public Work|  [http://dpw.lacity.org](http://dpw.lacity.org)     |     |       2017.1.19      |
+
 
 ###건설 토목
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
@@ -68,6 +73,14 @@
 | ARCO/Murray National |   [http://www.arcomurray.com](http://www.arcomurray.com)    |     |  2017.1.19       |
 | ARUP |   [http://www.arup.com](http://www.arup.com)    |     |  2017.1.19       |
 | BNBuilders |   [http://www.bnbuilders.com](http://www.bnbuilders.com)    |     |  2017.1.19       |
+| CalPortland |   [http://www.calportland.com](http://www.calportland.com)    |     |  2017.1.19       |
+| Clark Construction |   [https://www.clarkconstruction.com](https://www.clarkconstruction.com)    |     |  2017.1.19       |
+
+
+###에너지
+| 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
+|--------|-------|-----|-------------|
+| Chevron Oil & Gas |   [https://www.chevron.com](https://www.chevron.com)    |     |  2017.1.19       |
 
 ###회계 세무
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
