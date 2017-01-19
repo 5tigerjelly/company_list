@@ -13,25 +13,35 @@
 ###통신 가전 
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
-|   AT&T    |   [https://www.att.com/](https://www.att.com/)    |     |       2016.10.26      |
-|   T-Mobile     |   [https://www.t-mobile.com/](https://www.t-mobile.com/)    |     |     2016.10.26         |
-|    CISCO    |    [http://www.cisco.com/](http://www.cisco.com/)   |     | 2016.10.29      |
+| AT&T    |   [https://www.att.com/](https://www.att.com/)    |     |       2016.10.26      |
+| T-Mobile     |   [https://www.t-mobile.com/](https://www.t-mobile.com/)    |     |     2016.10.26         |
+| CISCO    |    [http://www.cisco.com/](http://www.cisco.com/)   |     | 2016.10.29      |
 
-###소프트웨어
+###소프트웨어 IT
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
-|     Workday   |    [https://www.workday.com/](https://www.workday.com/)   |     |      2016.10.26        |
-|     Premera   |    [https://www.premerajobs.com/](https://www.premerajobs.com/)   |     |      2017.01.18        |
+| Workday   |    [https://www.workday.com/](https://www.workday.com/)   |     |      2016.10.26        |
+| Premera   |    [https://www.premerajobs.com/](https://www.premerajobs.com/)   |     |      2017.01.18        |
+| AOL   |    [https://www.aol.com](https://www.aol.com)   |     |      2017.01.19        |
 
 ###생명공학
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
 | Abbott   |   [http://www.abbott.com](http://www.abbott.com)    |     |  2017.1.19       |
+| Amgen   |   [http://www.amgen.com](http://www.amgen.com)    |     |  2017.1.19       |
+
+###기계공학
+| 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
+|--------|-------|-----|-------------|
+| ACCO Engineered Systems | [http://www.accoes.com](http://www.accoes.com)    |     |  2017.1.19       |
+| Aero Vironment   |   [https://www.avinc.com](https://www.avinc.com)    |     |  2017.1.19       |
+
 ###생활 
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
 |Liberty Mutual    |[https://www.libertymutual.com/](https://www.libertymutual.com/)    |     | 2016.10.29        |
 |    Honeywell    |    [https://www.honeywell.com](https://www.honeywell.com)   |     |      2016.10.29       |
+|    Aramark    |    [http://www.aramark.com](http://www.aramark.com)   |     |      2017.1.19       |
 
 ###우주 항공
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
@@ -42,12 +52,19 @@
 |  Space X      |   [http://www.spacex.com/](http://www.spacex.com/)    |     |     2016.10.26        |
 |  NASA   |   [https://www.nasa.gov](https://www.nasa.gov)    |     |  2017.1.19       |
 
+
 ###정부
 | 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
 |--------|-------|-----|-------------|
 |   CIA     |   [https://www.cia.gov](https://www.cia.gov)    |     |       2016.10.26      |
 |    FBI    |    [https://www.fbi.gov](https://www.fbi.gov)   |     |       2016.10.26      |
 |    NSA    |  [https://www.nsa.gov](https://www.nsa.gov)     |     |       2016.10.29      |
+
+###건설 토목
+| 회사명칭 | 웹사이트 | 비고 | 마지막 업데이트 |
+|--------|-------|-----|-------------|
+| ARCO/Murray National |   [http://www.arcomurray.com](http://www.arcomurray.com)    |     |  2017.1.19       |
+| ARUP |   [http://www.arup.com](http://www.arup.com)    |     |  2017.1.19       |
 
 ##유럽 명단
 여러분의 도움이 필요합니다!
