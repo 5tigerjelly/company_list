@@ -9,8 +9,8 @@ If you find any wrong information, please submit a github [issue](https://github
 
 ## Contribution
 If you would like to make contributions to this list, feel free to make a PR. Also please add supporting document on a company hiring/not hiring international students!
-[How to send a pull requst](https://help.github.com/articles/creating-a-pull-request/)
-You can also [submit to google form .](https://docs.google.com/forms/d/e/1FAIpQLSeo1tufU6xnIj0-txIg0bqyhsVPELDpWdRMXoWhzCFWukXH8g/viewform?usp=sf_link)
+[How to send a pull request.](https://help.github.com/articles/creating-a-pull-request/)
+You can also [submit to google form.](https://docs.google.com/forms/d/e/1FAIpQLSeo1tufU6xnIj0-txIg0bqyhsVPELDpWdRMXoWhzCFWukXH8g/viewform?usp=sf_link)
 
 ## US / Canada
 
