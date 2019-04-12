@@ -19,7 +19,7 @@ You can also [submit to google form.](https://docs.google.com/forms/d/e/1FAIpQLS
 |--------|-------|-----|-------------|
 | AT&T    |   [https://www.att.com/](https://www.att.com/)    |     |       2016.10.26      |
 | T-Mobile     |   [https://www.t-mobile.com/](https://www.t-mobile.com/)    |     |     2016.10.26         |
-| CISCO    |    [http://www.cisco.com/](http://www.cisco.com/)   |     | 2016.10.29      |
+| CISCO    |    [http://www.cisco.com/](http://www.cisco.com/)   |  Hires Intl. students only Master level  | 2019.4.12      |
 | HARMAN    |    [https://www.harman.com](https://www.harman.com)   |     | 2017.1.20      |
 | Huawei USA    |    [http://www.huawei.com/us/](http://www.huawei.com/us/)   |     | 2017.1.20      |
 
